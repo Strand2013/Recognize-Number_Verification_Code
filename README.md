@@ -1,4 +1,5 @@
-﻿# Recognitize-Verification-Code
+# Recognitize-Verification-Code
+
 Recognize the sample verification code which composed by four numbers.
 
 网站的四位数字验证码（略有残缺和粘连）的识别，识别率97%+
