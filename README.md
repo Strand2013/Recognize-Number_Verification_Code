@@ -14,6 +14,9 @@ Recognize the sample verification code which composed by four numbers.
 5、验证模型的精度
 
 程序入口:
+
 main.py
+
 使用方法:
+
 python main.py file "picture_abspath"
