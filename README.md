@@ -9,6 +9,6 @@ Recognize the sample verification code which composed by four numbers.
 
 3、打标
 
-4、tensorflow->cnn
+4、训练模型 tensorflow->cnn
 
-5、验证
+5、验证模型的精度
